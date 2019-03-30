@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .header{
     background-color: #42a8f6;
@@ -75,5 +76,22 @@ body{
 }
 .tagline-earphones{
     display: inline-block;
-    float: right;
+    height: 1px;
+    width: 100%;
+    text-align: right;
+}
+.services-title{
+    width: 100%;
+    text-align: center;
+    font-family: "Roboto Slab";
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 57px;
+}
+.title-welcome{
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: none;
 }
